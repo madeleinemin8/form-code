@@ -12,14 +12,14 @@ let d3 = 0;
 
 function preload() {
   
-  dancer1Arr[0] = loadImage('/../images/dancer1_0.png');
-  dancer1Arr[1] = loadImage('/../images/dancer1_1.png');
-  dancer1Arr[2] = loadImage('/images/dancer1_2.png');
-  dancer1Arr[3] = loadImage('/images/dancer1_3.png');
-  dancer1Arr[4] = loadImage('/images/dancer1_4.png');
+  dancer1Arr[0] = loadImage('images/dancer1_0.png');
+  dancer1Arr[1] = loadImage('images/dancer1_1.png');
+  dancer1Arr[2] = loadImage('images/dancer1_2.png');
+  dancer1Arr[3] = loadImage('images/dancer1_3.png');
+  dancer1Arr[4] = loadImage('images/dancer1_4.png');
   
-  dancer2Arr[0] = loadImage('/images/dancer2_0.png');
-  dancer2Arr[1] = loadImage('/images/dancer2_1.png');
+  dancer2Arr[0] = loadImage('images/dancer2_0.png');
+  dancer2Arr[1] = loadImage('images/dancer2_1.png');
   dancer2Arr[2] = loadImage('images/dancer2_2.png');
   dancer2Arr[3] = loadImage('images/dancer2_3.png');
   dancer2Arr[4] = loadImage('images/dancer2_4.png');
@@ -129,4 +129,3 @@ function mouseClicked() {
   resetPositions();
   
 }
-
