@@ -1,5 +1,5 @@
-# FORM + CODE
+# FORM + CODE: Random Dancing
 
-![p5.js + canvas](http://i3.ytimg.com/vi/s01IVHrWmjM/maxresdefault.jpg)
+Loosely inspired by https://icarly.fandom.com/wiki/Random_Dancing !
 
-In this assignment we'll be experimenting with algorithmic composition using the web's [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) (for creating interactive and generative 2D drawings) via the [p5.js](https://p5js.org/) library. As I explain the intro video for the [playlist](https://www.youtube.com/playlist?list=PLoQrXDiSBWYE1qs4cnM_wPIA_pEMHQmLE) associated with this assignment, the goal is to create an algorithmic (visual) composition where the same code produces slightly different visual outputs each time it's run (ie. each time we refresh the page and/or as we interact with it).
+In Random Dancing, we explore the idea of computer-generated randomness working in tandem with human/visual intuition. The "human" element comes into play with hand-drawn animations, while randomness dictates the color scheme, positioning of elements, and animation speed (frame rate).
